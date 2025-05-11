@@ -1,0 +1,39 @@
+version: '3.8'
+
+services:
+  # ASP.NET Core API Management Personnel
+  e-api:
+    build:
+      context: .
+      dockerfile: ManagementPersonnel/src/BE.NETCore/Dockerfile
+    container_name: bemanagepersional
+    restart: always
+    ports:
+      - "80:80"
+    links:
+      - managementpersional-postgres
+    networks:
+      - app-network
+    depends_on:
+      - managementpersional-postgres
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__PostgreSqlConnection=Host=managementpersional-postgres;Port=5432;Database=managementpersional;Username=trong225;Password=trong225;
+
+  # PostgreSQL
+  managementpersional-postgres:
+    image: postgres:latest
+    container_name: managementpersional-postgres
+    restart: always
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_DB=managementpersional
+      - POSTGRES_USER=trong225
+      - POSTGRES_PASSWORD=trong225
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge

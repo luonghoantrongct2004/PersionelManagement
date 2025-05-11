@@ -1,0 +1,29 @@
+stages:
+  - build
+  - test
+  - deploy
+variables:
+  IMAGE_NAME: "hoantrong171124/beapi"
+  TAG: "latest"
+build:
+  stage: build
+  image: mcr.microsoft.com/dotnet/sdk:8.0
+  script:
+    - dotnet restore
+    - dotnet build --configuration Release
+    - dotnet publish --configuration Release --output out
+    - docker build -t $IMAGE_NAME:$TAG .
+
+test:
+  stage: test
+  image: mcr.microsoft.com/dotnet/sdk:6.0
+  script:
+    - dotnet test
+deploy:
+  stage: deploy
+  image: docker:latest
+  services:
+    - docker:dind
+  script:
+    - docker login -u $DOCKER_USERNAME -p $DOCKER_PASSWORD
+    - docker push $IMAGE_NAME:$TAG

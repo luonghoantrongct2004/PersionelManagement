@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6E4583-A459-058F-B78B-35BACE1D5CA0}|ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\BE.DAL.csproj|c:\\users\\acer\\onedrive\\ta\u0300i li\u00EA\u0323u\\projects\\managementpersonnel\\src\\be.dal\\be.dal\\services\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6E4583-A459-058F-B78B-35BACE1D5CA0}|ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\BE.DAL.csproj|solutionrelative:managementpersonnel\\src\\be.dal\\be.dal\\services\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6E4583-A459-058F-B78B-35BACE1D5CA0}|ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\BE.DAL.csproj|c:\\users\\acer\\onedrive\\ta\u0300i li\u00EA\u0323u\\projects\\managementpersonnel\\src\\be.dal\\be.dal\\reporsitory\\ipostgresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6E4583-A459-058F-B78B-35BACE1D5CA0}|ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\BE.DAL.csproj|solutionrelative:managementpersonnel\\src\\be.dal\\be.dal\\reporsitory\\ipostgresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6E4583-A459-058F-B78B-35BACE1D5CA0}|ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\BE.DAL.csproj|c:\\users\\acer\\onedrive\\ta\u0300i li\u00EA\u0323u\\projects\\managementpersonnel\\src\\be.dal\\be.dal\\reporsitory\\postgresrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6E4583-A459-058F-B78B-35BACE1D5CA0}|ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\BE.DAL.csproj|solutionrelative:managementpersonnel\\src\\be.dal\\be.dal\\reporsitory\\postgresrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3762C18E-6A21-ACBF-C1C7-31930F34D515}|ManagementPersonnel\\src\\BE.Domain\\BE.Domain\\BE.Domain.csproj|c:\\users\\acer\\onedrive\\ta\u0300i li\u00EA\u0323u\\projects\\managementpersonnel\\src\\be.domain\\be.domain\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3762C18E-6A21-ACBF-C1C7-31930F34D515}|ManagementPersonnel\\src\\BE.Domain\\BE.Domain\\BE.Domain.csproj|solutionrelative:managementpersonnel\\src\\be.domain\\be.domain\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6E4583-A459-058F-B78B-35BACE1D5CA0}|ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\BE.DAL.csproj|c:\\users\\acer\\onedrive\\ta\u0300i li\u00EA\u0323u\\projects\\managementpersonnel\\src\\be.dal\\be.dal\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6E4583-A459-058F-B78B-35BACE1D5CA0}|ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\BE.DAL.csproj|solutionrelative:managementpersonnel\\src\\be.dal\\be.dal\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6E4583-A459-058F-B78B-35BACE1D5CA0}|ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\BE.DAL.csproj|c:\\users\\acer\\onedrive\\ta\u0300i li\u00EA\u0323u\\projects\\managementpersonnel\\src\\be.dal\\be.dal\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6E4583-A459-058F-B78B-35BACE1D5CA0}|ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\BE.DAL.csproj|solutionrelative:managementpersonnel\\src\\be.dal\\be.dal\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3762C18E-6A21-ACBF-C1C7-31930F34D515}|ManagementPersonnel\\src\\BE.Domain\\BE.Domain\\BE.Domain.csproj|c:\\users\\acer\\onedrive\\ta\u0300i li\u00EA\u0323u\\projects\\managementpersonnel\\src\\be.domain\\be.domain\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3762C18E-6A21-ACBF-C1C7-31930F34D515}|ManagementPersonnel\\src\\BE.Domain\\BE.Domain\\BE.Domain.csproj|solutionrelative:managementpersonnel\\src\\be.domain\\be.domain\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4EE96C-A2EA-224D-A2C0-6192206CCD91}|ManagementPersonnel\\src\\BE.NETCore\\BE.NETCore\\BE.NETCore.csproj|c:\\users\\acer\\onedrive\\ta\u0300i li\u00EA\u0323u\\projects\\managementpersonnel\\src\\be.netcore\\be.netcore\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AA4EE96C-A2EA-224D-A2C0-6192206CCD91}|ManagementPersonnel\\src\\BE.NETCore\\BE.NETCore\\BE.NETCore.csproj|solutionrelative:managementpersonnel\\src\\be.netcore\\be.netcore\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4EE96C-A2EA-224D-A2C0-6192206CCD91}|ManagementPersonnel\\src\\BE.NETCore\\BE.NETCore\\BE.NETCore.csproj|c:\\users\\acer\\onedrive\\ta\u0300i li\u00EA\u0323u\\projects\\managementpersonnel\\src\\be.netcore\\be.netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4EE96C-A2EA-224D-A2C0-6192206CCD91}|ManagementPersonnel\\src\\BE.NETCore\\BE.NETCore\\BE.NETCore.csproj|solutionrelative:managementpersonnel\\src\\be.netcore\\be.netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4EE96C-A2EA-224D-A2C0-6192206CCD91}|ManagementPersonnel\\src\\BE.NETCore\\BE.NETCore\\BE.NETCore.csproj|c:\\users\\acer\\onedrive\\ta\u0300i li\u00EA\u0323u\\projects\\managementpersonnel\\src\\be.netcore\\be.netcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA4EE96C-A2EA-224D-A2C0-6192206CCD91}|ManagementPersonnel\\src\\BE.NETCore\\BE.NETCore\\BE.NETCore.csproj|solutionrelative:managementpersonnel\\src\\be.netcore\\be.netcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Projects\\ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\Services\\ITokenService.cs",
+              "RelativeDocumentMoniker": "ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\Services\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Projects\\ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\Services\\ITokenService.cs",
+              "RelativeToolTip": "ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\Services\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:45:42.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Projects\\ManagementPersonnel\\src\\BE.Domain\\BE.Domain\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "ManagementPersonnel\\src\\BE.Domain\\BE.Domain\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Projects\\ManagementPersonnel\\src\\BE.Domain\\BE.Domain\\RefreshToken.cs",
+              "RelativeToolTip": "ManagementPersonnel\\src\\BE.Domain\\BE.Domain\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:45:07.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticateService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Projects\\ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\Services\\AuthenticateService.cs",
+              "RelativeDocumentMoniker": "ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\Services\\AuthenticateService.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Projects\\ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\Services\\AuthenticateService.cs",
+              "RelativeToolTip": "ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\Services\\AuthenticateService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAIAwwB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:42:29.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostgresRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Projects\\ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\Reporsitory\\PostgresRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\Reporsitory\\PostgresRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Projects\\ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\Reporsitory\\PostgresRepositoryImpl.cs",
+              "RelativeToolTip": "ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\Reporsitory\\PostgresRepositoryImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:14:12.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPostgresRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Projects\\ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\Reporsitory\\IPostgresRepository.cs",
+              "RelativeDocumentMoniker": "ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\Reporsitory\\IPostgresRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Projects\\ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\Reporsitory\\IPostgresRepository.cs",
+              "RelativeToolTip": "ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\Reporsitory\\IPostgresRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:07:20.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Projects\\ManagementPersonnel\\src\\BE.Domain\\BE.Domain\\Transaction.cs",
+              "RelativeDocumentMoniker": "ManagementPersonnel\\src\\BE.Domain\\BE.Domain\\Transaction.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Projects\\ManagementPersonnel\\src\\BE.Domain\\BE.Domain\\Transaction.cs",
+              "RelativeToolTip": "ManagementPersonnel\\src\\BE.Domain\\BE.Domain\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T13:41:33.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Projects\\ManagementPersonnel\\src\\BE.NETCore\\BE.NETCore\\Dockerfile",
+              "RelativeDocumentMoniker": "ManagementPersonnel\\src\\BE.NETCore\\BE.NETCore\\Dockerfile",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Projects\\ManagementPersonnel\\src\\BE.NETCore\\BE.NETCore\\Dockerfile",
+              "RelativeToolTip": "ManagementPersonnel\\src\\BE.NETCore\\BE.NETCore\\Dockerfile",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-02T02:11:24.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Projects\\ManagementPersonnel\\src\\BE.NETCore\\BE.NETCore\\Program.cs",
+              "RelativeDocumentMoniker": "ManagementPersonnel\\src\\BE.NETCore\\BE.NETCore\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Projects\\ManagementPersonnel\\src\\BE.NETCore\\BE.NETCore\\Program.cs",
+              "RelativeToolTip": "ManagementPersonnel\\src\\BE.NETCore\\BE.NETCore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T01:07:36.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Projects\\ManagementPersonnel\\src\\BE.NETCore\\BE.NETCore\\appsettings.json",
+              "RelativeDocumentMoniker": "ManagementPersonnel\\src\\BE.NETCore\\BE.NETCore\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Projects\\ManagementPersonnel\\src\\BE.NETCore\\BE.NETCore\\appsettings.json",
+              "RelativeToolTip": "ManagementPersonnel\\src\\BE.NETCore\\BE.NETCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T01:01:32.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Projects\\ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\DBContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\DBContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Projects\\ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\DBContext\\AppDbContext.cs",
+              "RelativeToolTip": "ManagementPersonnel\\src\\BE.DAL\\BE.DAL\\DBContext\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T00:56:03.786Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

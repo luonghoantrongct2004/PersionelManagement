@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ManagementPersonnel\\BE.NETCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA10298-260B-439E-97DA-ADB2A641ED36}|BE.NETCore\\BE.NETCore.csproj|c:\\users\\acer\\onedrive\\ta\u0300i li\u00EA\u0323u\\managementpersonnel\\be.netcore\\be.netcore\\.gitlab-ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FFA10298-260B-439E-97DA-ADB2A641ED36}|BE.NETCore\\BE.NETCore.csproj|solutionrelative:be.netcore\\.gitlab-ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C913D40-2037-4B38-B252-50FC1206F241}|..\\BE.Domain\\BE.Domain\\BE.Domain.csproj|c:\\users\\acer\\onedrive\\ta\u0300i li\u00EA\u0323u\\managementpersonnel\\be.domain\\be.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753E7993-C580-46EC-9671-70AD1641A33B}|..\\BE.DAL\\BE.DAL\\BE.DAL.csproj|c:\\users\\acer\\onedrive\\ta\u0300i li\u00EA\u0323u\\managementpersonnel\\be.dal\\be.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0AB9A62-ED23-4343-A61B-0F46520AAECA}|..\\BE.Application\\BE.Application\\BE.Application.csproj|c:\\users\\acer\\onedrive\\ta\u0300i li\u00EA\u0323u\\managementpersonnel\\be.application\\be.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA10298-260B-439E-97DA-ADB2A641ED36}|BE.NETCore\\BE.NETCore.csproj|c:\\users\\acer\\onedrive\\ta\u0300i li\u00EA\u0323u\\managementpersonnel\\be.netcore\\be.netcore\\controllers\\calendarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA10298-260B-439E-97DA-ADB2A641ED36}|BE.NETCore\\BE.NETCore.csproj|solutionrelative:be.netcore\\controllers\\calendarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA10298-260B-439E-97DA-ADB2A641ED36}|BE.NETCore\\BE.NETCore.csproj|c:\\users\\acer\\onedrive\\ta\u0300i li\u00EA\u0323u\\managementpersonnel\\be.netcore\\be.netcore\\stylecop.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FFA10298-260B-439E-97DA-ADB2A641ED36}|BE.NETCore\\BE.NETCore.csproj|solutionrelative:be.netcore\\stylecop.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA10298-260B-439E-97DA-ADB2A641ED36}|BE.NETCore\\BE.NETCore.csproj|c:\\users\\acer\\onedrive\\ta\u0300i li\u00EA\u0323u\\managementpersonnel\\be.netcore\\be.netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA10298-260B-439E-97DA-ADB2A641ED36}|BE.NETCore\\BE.NETCore.csproj|solutionrelative:be.netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ManagementPersonnel\\BE.Domain\\BE.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BE.Domain\\BE.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ManagementPersonnel\\BE.Domain\\BE.Domain\\Class1.cs",
+              "RelativeToolTip": "..\\BE.Domain\\BE.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T11:14:39.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ManagementPersonnel\\BE.DAL\\BE.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BE.DAL\\BE.DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ManagementPersonnel\\BE.DAL\\BE.DAL\\Class1.cs",
+              "RelativeToolTip": "..\\BE.DAL\\BE.DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T11:13:45.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ManagementPersonnel\\BE.Application\\BE.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BE.Application\\BE.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ManagementPersonnel\\BE.Application\\BE.Application\\Class1.cs",
+              "RelativeToolTip": "..\\BE.Application\\BE.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T11:12:24.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalendarController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ManagementPersonnel\\BE.NETCore\\BE.NETCore\\Controllers\\CalendarController.cs",
+              "RelativeDocumentMoniker": "BE.NETCore\\Controllers\\CalendarController.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ManagementPersonnel\\BE.NETCore\\BE.NETCore\\Controllers\\CalendarController.cs",
+              "RelativeToolTip": "BE.NETCore\\Controllers\\CalendarController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T11:09:51.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitlab-ci.yml",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ManagementPersonnel\\BE.NETCore\\BE.NETCore\\.gitlab-ci.yml",
+              "RelativeDocumentMoniker": "BE.NETCore\\.gitlab-ci.yml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ManagementPersonnel\\BE.NETCore\\BE.NETCore\\.gitlab-ci.yml",
+              "RelativeToolTip": "BE.NETCore\\.gitlab-ci.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-07T07:20:12.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ManagementPersonnel\\BE.NETCore\\BE.NETCore\\Program.cs",
+              "RelativeDocumentMoniker": "BE.NETCore\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ManagementPersonnel\\BE.NETCore\\BE.NETCore\\Program.cs",
+              "RelativeToolTip": "BE.NETCore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:51:03.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "stylecop.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ManagementPersonnel\\BE.NETCore\\BE.NETCore\\stylecop.json",
+              "RelativeDocumentMoniker": "BE.NETCore\\stylecop.json",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ManagementPersonnel\\BE.NETCore\\BE.NETCore\\stylecop.json",
+              "RelativeToolTip": "BE.NETCore\\stylecop.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-07T01:34:57.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

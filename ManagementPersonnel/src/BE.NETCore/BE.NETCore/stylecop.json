@@ -1,0 +1,27 @@
+{
+  "settings": {
+    "settings": {
+      "documentationRules": {
+        "companyName": "Management Persional",
+        "copyrightText": "Copyright © HoanTrong",
+        "includeInSummary": true,
+        "requireDocumentationForPublicMembers": true
+      },
+      "maintainabilityRules": {
+        "maxLineLength": 120,
+        "maxParameters": 5,
+        "maxMethodLength": 50
+      },
+      "layoutRules": {
+        "requireEmptyLineBeforeAttributes": true,
+        "requireEmptyLineAfterAttributes": true,
+        "requireBlankLineAfterMethod": true
+      },
+      "namingRules": {
+        "allowUppercaseInParameters": false,
+        "requirePascalCaseForPublicMembers": true,
+        "requireCamelCaseForPrivateMembers": true
+      }
+    }
+  }
+}
